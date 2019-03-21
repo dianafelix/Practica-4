@@ -7,7 +7,7 @@ import java.util.Date;
 
 @Data
 @Entity
-@Table(name = "contactDetal")
+@Table(name = "contactDetail")
 public class ContactDetail {
     @Id
     @GeneratedValue
